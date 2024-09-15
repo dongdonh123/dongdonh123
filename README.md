@@ -1,6 +1,6 @@
 <img align="right" src="bbb" width="300"/>
 
-<h1> Hi, I'm DongHwan <img src="aaa" height="180"></h1>
+<h1> 🖐️ Hi, I'm DongHwan 🖐️<img src="aaa" height="180"></h1>
 
 <br />
 <h2> My tech stack 📚 </h2>
