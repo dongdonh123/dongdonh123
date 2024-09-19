@@ -1,3 +1,5 @@
+<object type="image/svg+xml" data="https://dongdonh123.github.io/image/ds.svg" width="300"></object>
+
 <a href="https://datastreams.co.kr" target="_blank">
 <img src="https://dongdonh123.github.io/image/ds.svg" width="300"  />
 </a>
