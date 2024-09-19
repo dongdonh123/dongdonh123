@@ -1,5 +1,3 @@
-<img src="https://dongdonh123.github.io/image/ds.svg" width="300"  />
-<img src="https://dongdonh123.github.io/image/kdh.png" height="300" />
 <h1> 🖐️ Hi, I'm DongHwan 🖐️</h1>
 <h2> My tech stack 📚 </h2>
 
