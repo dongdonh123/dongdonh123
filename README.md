@@ -1,6 +1,6 @@
 <img align="right" src="https://dongdonh123.github.io/image/ds.png" width="150"/>
-
-<h1> 🖐️ Hi, I'm DongHwan 🖐️<img src="https://dongdonh123.github.io/image/kdh.jpg" height="180"></h1>
+<img src="https://dongdonh123.github.io/image/kdh.jpg" height="180">
+<h1> 🖐️ Hi, I'm DongHwan 🖐️</h1>
 
 <br />
 <h2> My tech stack 📚 </h2>
