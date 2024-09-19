@@ -1,4 +1,4 @@
-<img src="https://dongdonh123.github.io/image/ds.png" width="300"/>
+<img src="https://dongdonh123.github.io/image/ds.png" width="300" style="pointer-events: none/>
 <img src="https://dongdonh123.github.io/image/kdh.jpg" height="300">
 <h1> 🖐️ Hi, I'm DongHwan 🖐️</h1>
 
