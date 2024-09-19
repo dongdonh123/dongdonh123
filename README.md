@@ -1,7 +1,8 @@
-<a href="https://datastreams.co.kr" >
+<a href="https://datastreams.co.kr" target="_blank">
 <img src="https://dongdonh123.github.io/image/ds.svg" width="300"  />
 </a>
-<a href="https://kimdonghwanta.tistory.com" >
+<br>
+<a href="https://kimdonghwanta.tistory.com" target="_blank">
 <img src="https://dongdonh123.github.io/image/kdh.png" height="300" />
 </a>
 <h1> 🖐️ Hi, I'm DongHwan 🖐️</h1>
