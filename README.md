@@ -1,4 +1,4 @@
-<object type="image/svg+xml" data="https://dongdonh123.github.io/image/ds.svg" width="300"></object>
+![이미지 설명](https://dongdonh123.github.io/image/ds.svg)
 
 <a href="https://datastreams.co.kr" target="_blank">
 <img src="https://dongdonh123.github.io/image/ds.svg" width="300"  />
