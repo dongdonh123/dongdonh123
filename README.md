@@ -1,15 +1,8 @@
-![이미지 설명](https://dongdonh123.github.io/image/ds.sv)
 
-<a href="https://datastreams.co.kr" target="_blank">
 <img src="https://dongdonh123.github.io/image/ds.svg" width="300"  />
-</a>
 <br>
-<a href="https://kimdonghwanta.tistory.com" target="_blank">
 <img src="https://dongdonh123.github.io/image/kdh.png" height="300" />
-</a>
 <h1> 🖐️ Hi, I'm DongHwan 🖐️</h1>
-
-<br />
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
